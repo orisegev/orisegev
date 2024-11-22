@@ -6,7 +6,7 @@
 
 <ul dir="auto">
 <li>
-<p dir="auto">🚀 🚀 I'm all about teaming up on open-source projects, leveling up my skills, and building something awesome with fellow devs.</p>
+<p dir="auto">🚀 I'm all about teaming up on open-source projects, leveling up my skills, and building something awesome with fellow devs.</p>
 </li>
 <li>
 <p dir="auto">💻 Let's Connect <strong><a href="mailto:orisegev72@gmail.com">orisegev72@gmail.com</a></strong></p>
