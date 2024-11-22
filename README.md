@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ori Segev</h1>
-<h3 align="center">💻 Computer Science Student at The Open University
-  Programmer since 14 I'm a passionate developer with a solid background in programming and systems.
-  I have experience working with a wide range of technologies and love tackling complex problems with creative solutions.</h3>
+<h3 align="center">A passionate developer from Israel</h3>
+
+
+<h4>• 🚀 Let's create something amazing together! I'm always open to collaboration on exciting projects! Feel free to reach out to discuss ideas, code, or opportunities.</h4>
+<h4></h4>• 💻 Computer Science Student at The Open University</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orisegev&label=Profile%20views&color=0e75b6&style=flat" alt="orisegev" /> </p>
 
