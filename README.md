@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orisegev&label=Profile%20views&color=0e75b6&style=flat" alt="orisegev" /> </p>
 
-<h4>• 🚀 Let's create something amazing together!</h4><br>
+<h4>• 🚀 Let's create something amazing together!</h4>
 <h5>I'm always open to collaboration on exciting projects! Feel free to reach out to discuss ideas, code, or opportunities.</h5>
 <h4>• 💻 Computer Science Student at The Open University</h4>
 
