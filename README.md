@@ -3,12 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orisegev&label=Profile%20views&color=0e75b6&style=flat" alt="orisegev" /> </p>
 
-<h4>• 🚀 Let's create something amazing together!</h4><h5>I'm always open to collaboration on exciting projects! Feel free to reach out to discuss ideas, code, or opportunities.</h5>
-<h4>• 💻 Computer Science Student at The Open University</h4>
+
+<ul dir="auto">
+<li>
+<p dir="auto">🚀 🚀 I'm all about teaming up on open-source projects, leveling up my skills, and building something awesome with fellow devs.</p>
+</li>
+<li>
+<p dir="auto">💻 Let's Connect <strong><a href="mailto:orisegev72@gmail.com">orisegev72@gmail.com</a></strong></p>
+</li>
+<li>
+<p dir="auto">📬 Computer Science Student at The Open University</p>
+</li>
+</ul>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orisegev" alt="orisegev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
